@@ -3,10 +3,10 @@ let myImage = document.querySelector('img');
 myImage.onclick = () => {
     let mySrc = myImage.getAttribute('src');
 
-    if (mySrc === 'images/logo-firefox-browser.fbc7ffbb50fd.png') {
+    if (mySrc === 'images/fire-fox.png') {
         myImage.setAttribute('src', 'images/chrome.png');
     } else {
-        myImage.setAttribute('src', 'images/logo-firefox-browser.fbc7ffbb50fd.png');
+        myImage.setAttribute('src', 'images/fire-fox.png');
     }
 
 }
