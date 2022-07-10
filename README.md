@@ -4,7 +4,7 @@
 - Personally - learning/trying new things. 
 
 - 🌱 I’m currently learning:
-- JSS: Recently passed the Basic level with SoftUni and will start Fundamentals in September 12 2022
+- JS: Recently passed the Basic level with SoftUni and will start Fundamentals in September 12 2022
 - HTML: Currently learning from the [MDN](https://developer.mozilla.org/en-US/) webiste
 - CSS: Currently learning from the [MDN](https://developer.mozilla.org/en-US/) webiste
 
