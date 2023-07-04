@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me: **Phone: 0896706167, email: martindlyubenov@gmail.com**
+- 📫 How to reach me: **phone: +359896706167, email: martindlyubenov@gmail.com**
 
 - 📄 Know about my experiences [https://martin-lyubenov.github.io/CV-site/](https://martin-lyubenov.github.io/CV-site/)
 
