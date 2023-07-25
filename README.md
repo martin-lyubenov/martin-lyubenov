@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin Lyubenov</h1>
-<h3 align="center">I am a chill guy who is looking to expand his knowledge on programming. I have completed a couple of JS courses and a React course with the hope of becomming a React developer.</h3>
+<h3 align="center">I am a chill guy who is looking to expand his knowledge on programming. I have completed a couple of JS courses.</h3>
 
 - 🔭 I’m currently working on [react-online-shop](https://martin-lyubenov.github.io/react-online-shop/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **PixiJS**
 
 - 📫 How to reach me: **phone: +359896706167, email: martindlyubenov@gmail.com**
 
